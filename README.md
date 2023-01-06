@@ -1,5 +1,5 @@
-# Module4_Whale_portfolio
-Whale_off_portfolio project
+
+# Whale_off_port(folio) project
 
 
 In this project we need to create a tool (an analysis notebook) that analyzes and visualizes the major metrics of the portfolios across multiple areas such volatility, returns, risk, and Sharpe ratios, and determine which portfolio is performing the best across these areas.
@@ -17,7 +17,13 @@ For this homework assignment, the three main tasks include:
 ## Risk Analysis ##
 Based on the first Standard Deviation graph, and calculations 
 
-[image.png]
+![](/Images/STDbargraph.png)
+
+
+### STD data of portfolios
+
+![](/Images/STDall.png)
+
 
 We can determine that all portfolios with the exception of Palson & Co. Inc. have a greater standard deviation, and are of greater risk than the S&P TSX 60
 
